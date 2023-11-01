@@ -1,0 +1,40 @@
+.container {
+    border: solid 3px black;
+    border-radius: 8px;
+    max-width: 600px;
+    background-color: #118ab2;
+}
+
+button {
+    margin: 20px;
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    font-size: larger;
+    font-weight: bold;
+}
+
+h2 {
+    margin: 30px 10px;
+}
+
+#Rock {
+    background-color: #ffd166;
+}
+
+#Paper {
+    background-color: #06d6a0;
+}
+
+#Scissors {
+    background-color: #ef476f;
+}
+
+h1, h3 {
+    text-align: center;
+    max-width: 600px;
+}
+
+/* i {
+    padding-right: 10px;
+} */
